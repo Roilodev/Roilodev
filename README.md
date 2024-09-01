@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any web project
 - 📫 You can contact me through roilodev07@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ... <b>I love Rock</b> 
+- ⚡ Fun fact: ... <b>I love Music</b> 
 
 <!---
 Roilodev/Roilodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
